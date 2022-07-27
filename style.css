@@ -1,0 +1,18 @@
+body {
+    font-family: 'Poppins';
+}
+
+.edtech-slider {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 85vh;
+}
+
+.edtech-bg-mask {
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.edtech-padding {
+    padding: 0% 26%;
+}
