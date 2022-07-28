@@ -16,3 +16,14 @@ body {
 .edtech-padding {
     padding: 0% 26%;
 }
+.coursesitem img{
+    width:180px;
+    padding: 18px;
+    
+}
+
+/* @media screen {
+    .coursesitem{
+       flex-direction:flex-wrap-reverse; 
+    }
+} */
